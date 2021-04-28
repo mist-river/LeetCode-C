@@ -2,7 +2,7 @@
     > File Name: symmetric-tree.c
 # File Name:    symmetric-tree.c
 # https://leetcode-cn.com/problems/symmetric-tree/
-# Author:       jintao5
+# Author:       mist-river
 # Created Time: 2021年04月14日 星期三 17时05分57秒
  ************************************************************************/
 

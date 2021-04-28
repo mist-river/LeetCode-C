@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: two-sum.c
 # File Name:    two-sum.c
-# Author:       jintao5
+# Author:       mist-river
 # https://leetcode-cn.com/problems/two-sum/
 # Created Time: 2021年04月13日 星期二 22时54分39秒
  ************************************************************************/

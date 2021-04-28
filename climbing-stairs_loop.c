@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: climbing-stairs.c
 # File Name:    climbing-stairs.c
-# Author:       taofeiyang
+# Author:       mist-river
 # 动态规划 滚动数组
 # https://leetcode-cn.com/problems/climbing-stairs/
 # Created Time: 2021年04月19日 星期一 11时10分24秒

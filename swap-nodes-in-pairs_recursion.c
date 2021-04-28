@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: swap-nodes-in-pairs.c
 # File Name:    swap-nodes-in-pairs.c
-# Author:       jintao5
+# Author:       mist-river
 # https://leetcode-cn.com/problems/swap-nodes-in-pairs/
 # Created Time: 2021年04月13日 星期二 11时23分28秒
  ************************************************************************/

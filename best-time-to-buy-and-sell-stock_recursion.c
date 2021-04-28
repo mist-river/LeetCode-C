@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: best-time-to-buy-and-sell-stock_recursion.c
 # File Name:    best-time-to-buy-and-sell-stock_recursion.c
-# Author:       taofeiyang
+# Author:       mist-river
 # 递归(纯粹为了练习下递归，该方法在leetcode上执行超时)
 # https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/
 # Created Time: 2021年04月19日 星期一 14时15分36秒

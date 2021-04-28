@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: house-robber.c
 # File Name:    house-robber.c
-# Author:       taofeiyang
+# Author:       mist-river
 # https://leetcode-cn.com/problems/house-robber/
 # Created Time: 2021年04月25日 星期日 17时39分33秒
  ************************************************************************/

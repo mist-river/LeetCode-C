@@ -1,7 +1,7 @@
 /*************************************************************************
   > File Name: jump-gam.c
 # File Name:    jump-gam.c
-# Author:       taofeiyang
+# Author:       mist-river
 # https://leetcode-cn.com/problems/jump-game/
 # 简化版
 # Created Time: 2021年04月23日 星期五 17时53分17秒

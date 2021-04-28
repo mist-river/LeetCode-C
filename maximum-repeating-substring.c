@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: maximum-repeating-substring.c
 # File Name:    maximum-repeating-substring.c
-# Author:       jintao5
+# Author:       mist-river
 # https://leetcode-cn.com/problems/maximum-repeating-substring/
 # Created Time: 2021年04月06日 星期二 22时10分05秒
  ************************************************************************/

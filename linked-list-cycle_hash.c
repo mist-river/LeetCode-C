@@ -1,7 +1,7 @@
 /*************************************************************************
   > File Name: linked-list-cycle.c
 # File Name:    linked-list-cycle.c
-# Author:       jintao5
+# Author:       mist-river
 # https://leetcode-cn.com/problems/linked-list-cycle/
 # Created Time: 2021年04月15日 星期四 20时39分17秒
  ************************************************************************/

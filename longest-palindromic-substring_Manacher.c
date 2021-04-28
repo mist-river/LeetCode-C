@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: longest-palindromic-substring.c
 # File Name:    longest-palindromic-substring.c
-# Author:       taofeiyang
+# Author:       mist-river
 # https://leetcode-cn.com/problems/longest-palindromic-substring/
 # Manacher算法
 # 较难理解!

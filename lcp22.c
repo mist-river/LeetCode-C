@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: lcp22.c
 # File Name:    lcp22.c
-# Author:       jintao5
+# Author:       mist-river
 # https://leetcode-cn.com/problems/ccw6C7/
 # LCP 22. 黑白方格画
 # Created Time: 2021年04月08日 星期四 17时11分30秒

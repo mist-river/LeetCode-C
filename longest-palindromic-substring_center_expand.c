@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: longest-palindromic-substring.c
 # File Name:    longest-palindromic-substring.c
-# Author:       taofeiyang
+# Author:       mist-river
 # https://leetcode-cn.com/problems/longest-palindromic-substring/
 # 中心扩展
 # Created Time: 2021年04月20日 星期二 09时52分08秒

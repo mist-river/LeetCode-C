@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: partition-list-lcci.c
 # File Name:    partition-list-lcci.c
-# Author:       taofeiyang
+# Author:       mist-river
 # https://leetcode-cn.com/problems/partition-list-lcci/
 # Created Time: 2021年04月17日 星期六 18时06分38秒
  ************************************************************************/

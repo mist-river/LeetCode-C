@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: the-masseuse-lcci.c
 # File Name:    the-masseuse-lcci.c
-# Author:       taofeiyang
+# Author:       mist-river
 # 递归解法(LeetCode上时间超限)
 # https://leetcode-cn.com/problems/the-masseuse-lcci/
 # Created Time: 2021年04月22日 星期四 16时59分05秒

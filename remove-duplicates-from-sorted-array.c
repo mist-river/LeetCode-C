@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: remove-duplicates-from-sorted-array.c
 # File Name:    remove-duplicates-from-sorted-array.c
-# Author:       taofeiyang
+# Author:       mist-river
 # https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
 # Created Time: 2021年04月18日 星期日 10时23分35秒
  ************************************************************************/

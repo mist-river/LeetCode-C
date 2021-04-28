@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: remove-duplicates-from-sorted-list.c
 # File Name:    remove-duplicates-from-sorted-list.c
-# Author:       jintao5
+# Author:       mist-river
 # https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/
 # Created Time: 2021年04月16日 星期五 21时01分49秒
  ************************************************************************/

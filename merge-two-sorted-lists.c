@@ -2,7 +2,7 @@
     > File Name: merge-two-sorted-lists.c
 # File Name:    merge-two-sorted-lists.c
 # https://leetcode-cn.com/problems/merge-two-sorted-lists/
-# Author:       jintao5
+# Author:       mist-river
 # Created Time: 2021年04月11日 星期日 20时18分16秒
  ************************************************************************/
 

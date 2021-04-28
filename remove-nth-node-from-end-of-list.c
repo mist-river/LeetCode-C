@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: remove-nth-node-from-end-of-list.c
 # File Name:    remove-nth-node-from-end-of-list.c
-# Author:       jintao5
+# Author:       mist-river
 # https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
 # Created Time: 2021年04月10日 星期六 21时02分24秒
  ************************************************************************/

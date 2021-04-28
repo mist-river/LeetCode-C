@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: best-time-to-buy-and-sell-stock.c
 # File Name:    best-time-to-buy-and-sell-stock.c
-# Author:       taofeiyang
+# Author:       mist-river
 # https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/
 # Created Time: 2021年04月19日 星期一 13时17分35秒
  ************************************************************************/

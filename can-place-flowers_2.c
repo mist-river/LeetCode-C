@@ -1,7 +1,7 @@
 /*************************************************************************
   > File Name: can-place-flowers.c
 # File Name:    can-place-flowers.c
-# Author:       taofeiyang
+# Author:       mist-river
 # https://leetcode-cn.com/problems/can-place-flowers/
 # Created Time: 2021年04月22日 星期四 21时16分26秒
  ************************************************************************/

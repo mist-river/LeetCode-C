@@ -1,7 +1,7 @@
 /*************************************************************************
   > File Name: search-a-2d-matrix.c
 # File Name:    search-a-2d-matrix.c
-# Author:       taofeiyang
+# Author:       mist-river
 # https://leetcode-cn.com/problems/search-a-2d-matrix/
 # leetcode中对于函数原型的定义相当具有迷惑性
 # 两次二分查找

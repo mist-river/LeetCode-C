@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: palindrome-number.c
 # File Name:    palindrome-number.c
-# Author:       jintao5
+# Author:       mist-river
 # https://leetcode-cn.com/problems/palindrome-number/
 # Created Time: 2021年04月12日 星期一 16时01分23秒
  ************************************************************************/

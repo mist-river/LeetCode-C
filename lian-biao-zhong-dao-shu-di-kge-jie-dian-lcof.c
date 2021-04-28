@@ -1,7 +1,7 @@
 /*************************************************************************
     > File Name: lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.c
 # File Name:    lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.c
-# Author:       jintao5
+# Author:       mist-river
 # https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
 # Created Time: 2021年04月08日 星期四 18时19分57秒
  ************************************************************************/

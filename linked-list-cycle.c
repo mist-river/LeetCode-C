@@ -1,7 +1,7 @@
 /*************************************************************************
   > File Name: linked-list-cycle.c
 # File Name:    linked-list-cycle.c
-# Author:       jintao5
+# Author:       mist-river
 # https://leetcode-cn.com/problems/linked-list-cycle/
 # 龟兔赛跑算法
 # (v2-v1) * t = m * n - step
